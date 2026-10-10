@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/oven-sh/awesome-bun/commit/9b6277f02b6750e6c049e520852842c15c3b34e1",
       "git:hexsha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
