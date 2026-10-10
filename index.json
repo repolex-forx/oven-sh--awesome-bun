@@ -1,0 +1,11 @@
+{
+  "org": "oven-sh",
+  "repo": "awesome-bun",
+  "versions": [
+    {
+      "commit": "9b6277f02b6750e6c049e520852842c15c3b34e1",
+      "tag": "",
+      "parsed_at": "2026-10-10T13:08:41.397194+00:00"
+    }
+  ]
+}
