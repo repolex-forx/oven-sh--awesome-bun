@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "oven-sh",
+  "repo": "awesome-bun",
+  "versions": [
+    {
+      "commit": "9b6277f02b6750e6c049e520852842c15c3b34e1",
+      "parsed_at": "2026-10-10T13:03:53.614852+00:00",
+      "filetree": "filetree/9b6277f02b6750e6c049e520852842c15c3b34e1.nq.gz",
+      "blobs": [
+        "blob/0e259d42c996742e9e3cba14c677129b2c1b6311.nq.gz",
+        "blob/d55c858bfa689c68520fe5b495a9685b47c476bb.nq.gz",
+        "blob/e4d6d44242f79559f3c43209bcc06aab306d4d74.nq.gz",
+        "blob/6ac72b83379a10f5b1305360c13b649695a7a442.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
